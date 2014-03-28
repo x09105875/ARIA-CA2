@@ -1,4 +1,4 @@
 ARIA1
 =====
 
-ARIA Exam
+The files here relate to the CA2 in-class assement for ARIA.
